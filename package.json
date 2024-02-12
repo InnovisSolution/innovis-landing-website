@@ -1,0 +1,10 @@
+{
+    "name": "innovis-landing-website",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "cd frontend && npm run dev"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
