@@ -9,9 +9,7 @@ import './default.css';
 function App() {
     return (
         <div className='content'>
-            <nav>
-                <Header />
-            </nav>
+            <Header />
             <Section>
                 <Hero />
             </Section>

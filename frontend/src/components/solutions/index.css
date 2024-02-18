@@ -1,0 +1,12 @@
+.solutions .solution_cards {
+    display: flex;
+    gap: 25px;
+    margin-top: 25px;
+    justify-content: center;
+}
+
+.solution_card {
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+}

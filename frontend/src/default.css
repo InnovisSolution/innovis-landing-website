@@ -316,3 +316,7 @@ input[type='button'] {
 .clearfix {
     zoom: 1;
 }
+
+button {
+    background-color: #fff;
+}
